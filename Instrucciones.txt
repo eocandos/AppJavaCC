@@ -1,0 +1,27 @@
+1-INSTRUCCIONES EJECUTAR APP:
+
+Para abrir la aplicacion:
+
+* Podemos usar una de tres formas diferentes o las tres si asi lo queremos.
+	A) Doble click sobre el ejecutable de nombre "EjecutableEXE.exe"
+	B) Instalando Java en el computador respectivo y hacer doble click sobre el archivo 
+		con extencion .jar de nombre "JAR.jar"
+	C) Y la ultima manera es con netbeans e importando el proyecto y asi ejecutarlo desde el IDE
+	
+** Em el momento que abra la app lanzara el mensaje:
+		"Por favor ingresar Numero de Filas: >>"
+
+	Luego de lo cual arroja el sigue:
+		"Por favor ingresar Numero de Columnas: >>"
+
+	y finalmente:
+		"Por favor ingrese Posicion para ubicar el vehiculo >>"
+
+Las verificaciones de formato de los comandos se realizaron correctamente y los limites de recorrido 
+del vehiculo. Cabe aclarar que la orden para avanzar del vehiculo debe ser un digito de 1 a 9 ya que
+por motivos de tiempo se opto por esta solucion.
+
+
+2-DATOS AUTOR:
+  Erick Ocando Sanchez
+  CC: 77 091 921
